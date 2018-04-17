@@ -1,3 +1,4 @@
+//жанас
 import pygame
 def updatePoints(pts):
     for i in range(45):
