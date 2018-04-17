@@ -1,4 +1,5 @@
 import pygame
+Karina tut byl yaa.
 def updatePoints(pts):
     for i in range(45):
         pts[0]-=1
